@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "img": "sipderman.jpg",
+        "tenphim": "Sipder Man",
+        "lichchieu": "2022-03-17",
+        "dongia": 65000,
+        "tinhtrang": 1,
+        "daodien": "Jon Watts",
+        "dienvien":"Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon, Jon Favreau",
+        "mota": "Người Nhện: Không Còn Nhà kể về lần đầu tiên trong lịch sử điện ảnh của Người Nhện, thân phận người hàng xóm thân thiện bị lật mở, khiến trách nhiệm làm một Siêu Anh Hùng xung đột với cuộc sống bình thường và đặt người anh quan tâm nhất vào tình thế nguy hiểm. Khi anh nhờ đến giúp đỡ của Doctor Strange để khôi phục lại bí mật, phép thuật đã gây ra lỗ hổng thời không, giải phóng những ác nhân mạnh mẽ nhất từng đối đầu với Người Nhện từ mọi vũ trụ. Bây giờ, Peter sẽ phải vượt qua thử thách lớn nhất của mình, nó sẽ thay đổi không chỉ tương lai của chính anh mà còn là tương lai của cả Đa Vũ Trụ."
+    },
+    {
+        "id": 2,
+        "img": "sing2.jpg",
+        "tenphim": "Đấu trường âm nhạc 2",
+        "lichchieu": "2022-03-18",
+        "dongia": 65000,
+        "tinhtrang": 1,
+        "daodien": "Garth Jennings",
+        "dienvien":"Matthew Scarlett Johansson, Taron Egerton, Tori Kelly, Halsey, Pharrell Williams",
+        "mota": "Đấu Trường Âm Nhạc 2 kể về sau khi thành công rực rỡ tại quê nhà, Buster Moon và các bạn quyết định dấn thân vào một cuộc chinh phục âm nhạc mới hoành tráng và cam go hơn bao giờ hết."
+    },
+    {
+        "id": 3,
+        "img": "gaudo.jpg",
+        "tenphim": "Gấu đỏ biến hình",
+        "lichchieu": "2022-03-15",
+        "dongia": 65000,
+        "tinhtrang": 1,
+        "daodien":"Domee Shi",
+        "dienvien":"Rosalie Chiang, Sandra Oh, James Hong",
+        "mota": "Gấu Đỏ Biến Hình kể về Mei Lee, cô bé 13 tuổi tự tin và ngổ ngáo với những sự hỗn loạn của tuổi mới lớn. Mẹ của Mei luôn cố gắng bảo bọc và ở bên cạnh con gái mọi lúc mọi nơi, khiến cô bé cảm thấy như một thảm hoạ vậy. Và cứ như thể những thay đổi về sở thích, các mối quan hệ và thể chất còn chưa đủ, mỗi khi Mei trở nên quá phấn khích (mà thật ra lúc nào cũng vậy), 'bùm', cô bé sẽ biến hình thành một chú gấu đỏ siêu cute khổng lồ luôn!"
+    },
+    {
+        "id": 4,
+        "img": "batman.jpg",
+        "tenphim": "Batman 2022",
+        "lichchieu": "2022-02-11",
+        "dongia": 65000,
+        "tinhtrang": 1,
+        "daodien":"Matt Reeves",
+        "dienvien":"Robert Pattinson, Zoe Kravitz, Paul Dano",
+        "mota": "Tay giết người hàng loạt – The Ridder (Paul Dano) sẽ là kẻ thù nguy hiểm hàng đầu của Batman ở phần phim sắp tới. Tên xấu xa này bị cảnh sát James Gordon và đồng đội bắt giữ đã lâu. Thế nhưng, hóa ra việc nhốt gã sau song sắt chỉ khiến The Ridder phiền phức hơn với Đấng. Penguin (Colin Farrell) thể hiện là kẻ thủ ác thích trực tiếp tạo ra hỗn loạn, muốn đối đầu Batman hơn là chỉ đạo gián tiếp theo cách The Ridder thực hiện. Đặc biệt, phần này sẽ tập trung khá nhiều vào mối quan hệ của Batman và Catwoman (Zoë Kravitz). Nàng Mèo xuất hiện rất nhiều trong trailer. giữa cô và Batman dường như có sự đồng cảm sâu sắc."
+    },
+    {
+        "id":5,
+        "img": "notimetodie.jpg",
+        "tenphim": "Không phải lúc chết",
+        "lichchieu": "2022-02-07",
+        "dongia": 65000,
+        "tinhtrang": 1,
+        "dienvien":"Daniel Craig, Léa Seydoux, Rami Malek",
+        "daodien":"Cary Joji Fukunaga",
+        "mota":"Không Phải Lúc Chết là phần 25 của bộ phim điệp viên huyền thoại 007 sẽ tiếp nối câu chuyện về James Bond cùng những pha hành động táo bạo và hoành tráng hơn bao giờ hết. Sau sự kiện đầy ám ảnh trong Spectre, Bond lui về ở ẩn tại đất nước Jamaica, sống một cuộc đời cô độc nhưng bình lặng. Bỗng một người bạn cũ từ CIA xuất hiện, cầu xin anh giúp đỡ. Bond bất đắc dĩ phải tái xuất, nhưng không hề biết mình sẽ đối đầu với thế lực nào. Chi tiết đáng chú ý nhất là chiếc mặt nạ trắng vỡ nửa, đánh dấu sự xuất hiện của tên ác nhân kì quái bậc nhất trong cả series 007. Màn chạm trán giữa Bond và kẻ thù nguy hiểm này sẽ vén màn những bí ẩn còn để ngỏ và tiếp theo đó, có thể là một cuộc đối đầu “sinh tử”."
+    },
+    {
+        "id":6,
+        "img": "venom.jpg",
+        "tenphim": "Venom đối mặt tử thù",
+        "lichchieu": "2022-01-12",
+        "dongia": 65000,
+        "tinhtrang": 1,
+        "dienvien":"Tom Hardy, Michelle Williams, Woody Harrelson, Naomie Harris",
+        "daodien":"Andy Serkis",
+        "mota":"Venom: Đối Mặt Tử Thù hứa hẹn trận chiến khốc liệt nhất giữa Venom và kẻ thù truyền kiếp, Carnage"
+    },
+    {
+        "id":7,
+        "img": "trinhvaem.jpg",
+        "tenphim": "Trịnh và em",
+        "lichchieu": "2022-04-30",
+        "dongia": 65000,
+        "tinhtrang": 2,
+        "daodien":"Phan Gia Nhật Linh",
+        "dienvien":"Lan Thy, Avin Lu, Trần Lực, Hoàng Hà",
+        "mota":"Phim điện ảnh Em và Trịnh kể về cuộc đời của nhạc sĩ Trịnh Công Sơn từ khi còn trẻ đến tuổi trung niên, khi ông hoài niệm về những nàng thơ trong cuộc đời mình: Bích Diễm, Dao Ánh, Khánh Ly, Hồng Nhung"
+    },
+    { 
+        "id":8,
+        "img": "nghesieude.jpg",
+        "tenphim": "Nghề siêu dễ",
+        "lichchieu": "2022-04-24",
+        "dongia": 65000,
+        "tinhtrang": 2,
+        "daodien":"Võ Thanh Hòa",
+        "dienvien":"Hứa Vĩ Văn, Thu Trang, Kiều Minh Tuấn, Tiến Luật, Huỳnh Phương, Vũ Ngọc Anh, Thanh Mỹ",
+        "mota":"Ông Thái là cảnh sát về hưu nhưng vẫn nhớ nghề, hàng ngày thường tìm bắt tội phạm vặt trong xóm. Một ngày kia, Hoàng - tên trùm ma túy mới ra tù bỗng dưng chuyển đến xóm ông và mở một văn phòng bất động sản. Nghi ngờ đây là nơi làm ăn phi pháp, ông Thái quyết định âm thầm điều tra. Ông mua lại tiệm cơm tấm đối diện trụ sở của Hoàng để làm nơi theo dõi, đồng thời thu nạp Thu - Phú - Vinh - Mèo, đám thanh niên “bất hảo” trong xóm về quán hỗ trợ buôn bán để rảnh tay 'phá án'. Trớ trêu thay, tiệm cơm bất ngờ nổi tiếng và ăn nên làm ra, khiến cho 'chuyên án đặc biệt' của ông đứng trước nguy cơ đổ bể. Phim mới Nghề Siêu Dễ ra mắt tại các rạp chiếu phim từ 29.04.2022"
+    },
+    {
+        "id":9,
+        "img": "morbius.jpg",
+        "tenphim": "Morbius",
+        "lichchieu": "2022-04-01",
+        "dongia": 65000,
+        "tinhtrang": 2,
+        "daodien":"Daniel Espinosa",
+        "dienvien":"Jared Leto, Adria Arjona, Matt Smith, Jared Harris, Tyrese Gibson",
+        "mota":"Nội dung phim xoay quanh nhân vật Morbius - anh là nhà khoa học thiên tài, nhưng anh lại bị mắc một căn bệnh hiếm gặp về máu, trong quá trình tìm phương pháp điều trị, anh đã vô tình biến mình trở thành một con ma cà rồng. Căn bệnh của anh đã được chữa khỏi hoàn toàn, đồng thời anh còn sở hữu thêm siêu sức mạnh, siêu tốc độ và siêu hồi phục, khả năng định vị bằng sóng âm và nhạy cảm ánh sáng như một ma cà rồng. Morbius sẽ được thủ vai bởi Jared Leto ( Người đã vào vai Joker trong Suicide Squad 2016). Ranh giới giữa anh hùng và ác nhân sẽ bị phá vỡ, một huyền thoại mới của Marvel sẽ sớm xuất hiện trên màn ảnh rộng"
+
+    },
+    {
+        "id":10,
+        "img": "doctorstrange.jpg",
+        "tenphim": "Phù thủ tối thượng",
+        "lichchieu": "2022-05-15",
+        "dongia": 65000,
+        "tinhtrang": 2,
+        "daodien":"Sam Raimi",
+        "dienvien":"Benedict Cumberbatch, Elizabeth Olsen, Rachel Mcadams",
+        "mota":"Doctor Strange In The Multiverse of Madness (Phù thủy tối thượng trong đa vũ trụ hỗn loạn) Sau khi dùng phép thuật khiến mọi người quên danh tính của Spider-Man, thế giới trở bỗng nhiên trở nên hoang tàn. Lo lắng sẽ có hiểm họa xảy ra Doctor Strange tìm đến Scarlet Witch (Elizabeth Olsen) để nhờ cô trợ giúp, có vẻ như điều gì đó đang tác động lớn đến sư ổn định của không thời gian, liệu đây có phải là cái giá phải trả của Strange khi dùng đến phép cấm mà Wong đã cảnh báo ?"
+    },
+    {
+        "id":11,
+        "img": "minion.jpg",
+        "tenphim": "Minions",
+        "lichchieu": "2022-05-10",
+        "dongia": 65000,
+        "tinhtrang": 2,
+        "daodien":"Kyle Balda",
+        "dienvien":"Steve Carell, Julie Andrews",
+        "mota":"Minions - Những Quả Chuối Vàng biết đi sẽ trở lại trong câu chuyện chưa kể về tuổi thơ của Gru - cậu bé mười hai tuổi mơ được trở thành ác nhân xuất sắc nhất thế giới."
+    },
+    {
+        "id":12,
+        "img": "jurassic.jpg",
+        "tenphim": "Thế giới khủng long",
+        "lichchieu": "2022-06-17",
+        "dongia": 65000,
+        "tinhtrang": 2,
+        "daodien":"",
+        "dienvien":"  Laura Dern, Sam Neill, Jeff Goldblum, Chris Pratt, Bryce Dallas Howard",
+        "mota":"Bốn năm sau kết thúc Jurassic World: Fallen Kingdom, những con khủng long đã thoát khỏi nơi giam cầm và tiến vào thế giới loài người. Giờ đây, chúng xuất hiện ở khắp mọi nơi. Sinh vật to lớn ấy không còn chỉ ở trên đảo như trước nữa mà gần ngay trước mắt, thậm chí còn có thể chạm tới. Owen Grady may mắn gặp lại cô khủng long mà anh và khán giả vô cùng yêu mến - Blue. Tuy nhiên, Blue không đi một mình mà còn đem theo một chú khủng long con khác. Điều này khiến Owen càng quyết tâm bảo vệ mẹ con cô được sinh sống an toàn. Thế nhưng, hai giống loài quá khác biệt. Liệu có thể tồn tại một kỷ nguyên mà khủng long và con người sống chung một cách hòa bình? "
+    }
+]

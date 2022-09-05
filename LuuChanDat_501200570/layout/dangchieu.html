@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-route.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Document</title>
+</head>
+
+<body ng-app="myapp">
+    <div class="container " ng-controller="ctrl">    
+        <div>
+            <div class="row">
+                <div class="col-lg-4" ng-repeat="sp in item3| filter:sreach| orderBy:col:flag">
+                    <div ng-if="sp.tinhtrang == 1">
+                        <div class="card mt-3" style="width: 300px; border: 1px solid; border-radius: 10px;">
+                            <img class="card-img-top" src="../img/{{sp.img}}" height="400px"
+                                style="border-radius: 10px;">
+                            <div class="card-body text-center">
+                                <h4 class="card-title " style="color: red;">{{sp.tenphim}}</h4>
+                                <p class="card-text">{{sp.dongia}} <br> <b>{{sp.lichchieu}}</b></p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<nav ng-include="'layout/footer.html'"></nav>
+</html> 
